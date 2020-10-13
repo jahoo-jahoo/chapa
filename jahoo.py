@@ -17,7 +17,7 @@ def select():
     os.system('ls')
     os.system('rm -rf name')
     os.system('ls')
-    os.system(git clone https://github.com/jahoo-jahoo/name.git
+    os.system('git clone https://github.com/jahoo-jahoo/name.git')
 
   elif a==2 :
     os.system('python jahoo4.py')
