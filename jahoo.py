@@ -13,7 +13,12 @@ def select():
     name=input("Enter your folder name : ")
     os.system('pkg update')
     os.system('pkg upgrade')
+    os.system('cd ..')
+    os.system('ls')
     os.system('rm -rf name')
+    os.system('ls')
+    os.system(git clone https://github.com/jahoo-jahoo/name.git
+
   elif a==2 :
     os.system('python jahoo4.py')
   else:
